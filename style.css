@@ -1,5 +1,5 @@
-h1 {
-    color:red;
+h1, h3, h4 {
+    color:white;
 }
 
 img {
@@ -15,10 +15,19 @@ img {
     border-radius: 10% / 50%;
     margin-right: auto;
     margin-left: auto;
-    margin-top: 35px;;
+    margin-top: 40px;;
 }
 
 #spanId {
     font-size: 18px;
     margin: 50px;
+    color: white;
+}
+
+body {
+    background-image: url('http://caravanadelapizza.com/wp-content/uploads/2015/03/47.jpg');
+}
+
+a {
+    color:burlywood;
 }
